@@ -4,7 +4,7 @@ This is a machine learning/neural network model that can classify the type of so
 URBANSOUND8K DATASET
 (https://urbansounddataset.weebly.com/urbansound8k.html)
 ## Classes
-air_conditioner, car_horn, children_playing, dog_bark, drilling, enginge_idling, gun_shot, jackhammer, siren, and street_music.
+Air Conditioner <br/> Car Horn <br/> Children Playing <br/> Dog Bark <br/> Drilling <br/> Engine Idling <br/> Gun Shot <br/> JackHammer <br/> Siren <br/> Street Music.
 ### Accuracy of this model : 67.27%
 ### Algorithm used : Deep Learning : Convolutional Neural Networks
 ## Technology used : 

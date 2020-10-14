@@ -5,7 +5,6 @@ Urban Sound 8K Dataset
 (https://urbansounddataset.weebly.com/urbansound8k.html)
 ## Classes
 • Air Conditioner <br/>• Car Horn <br/>• Children Playing <br/>• Dog Bark <br/>• Drilling <br/>• Engine Idling <br/>• Gun Shot <br/>• JackHammer <br/>• Siren <br/> • Street Music
-## Accuracy of this model : 67.27%
 ## Algorithm used : 
 Deep Learning - Convolutional Neural Networks
 ## Technology used : 

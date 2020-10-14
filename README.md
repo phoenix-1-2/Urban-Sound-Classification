@@ -1,5 +1,5 @@
 # Urban Sound Classification
-This dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classe. The classes are drawn from the urban sound taxonomy.
+This is a machine learning/neural network model that can classify the type of sound (10 classes) using the Mel Scale and Spectrogram.
 ## Dataset  
 URBANSOUND8K DATASET
 (https://urbansounddataset.weebly.com/urbansound8k.html)
